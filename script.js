@@ -91,5 +91,3 @@ function playGame() {
   console.log(`Round 5: You: ${humanScore} | Computer ${computerScore}`);
 
 }
-
-playGame();
