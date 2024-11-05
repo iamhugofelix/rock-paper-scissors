@@ -1,5 +1,5 @@
 # rock-paper-scissors
 This is a Rock, Paper, Scissors to test my Javascript skills
 
-Play the game here ↓
+To play the game click on the following link:
 https://iamhugofelix.github.io/rock-paper-scissors/
